@@ -3,7 +3,7 @@ I have a Master's in Teaching Philosophy, which is an unusual starting point for
 
 Before pursuing this field, I worked in several different places. I spent several years counting and supervising inventories, had a stint as an electrician's assistant, and taught philosophy and sociology at secondary school. After that I joined Scale AI as a freelancer, where I started as a tasker on Portuguese-language AI training projects, occasionally moved into a team leader role — onboarding new taskers, reviewing their work, managing deadlines, running meetings — and later became an auditor, responsible for quality control before delivery to the client.
 
-The decision to move into data analysis comes from a long and never ceased interest in technology — and philosophy isn't as far from data as it seems — both require careful, critical, and analytical thinking to reach premeditated conclusions conclusions.
+The decision to move into data analysis comes from a long and never ceased interest in technology — and philosophy isn't as far from data as it seems — both require careful, critical, and analytical thinking to reach premeditated conclusions.
 
 I recently completed a Data Analysis course (300h) from IEFP (Institute for Employment and Vocational Training). The programme covered the full data workflow: from information and data management, to Python programming, command line and scripting, all the way through to data cleaning, transformation, and building analytical models. On the side, I've been teaching myself Power BI.
 
