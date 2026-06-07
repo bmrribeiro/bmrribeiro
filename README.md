@@ -11,12 +11,11 @@ My portfolio is still growing, but take a look and say something — every kind 
 📩 [brunomiguelrosasribeiro@gmail.com] | 💼 [https://www.linkedin.com/in/bruno-ribeiro-3612ba367/]
 
 
+---
+
+# 📊 **My PowerBI reports**
 
 
-
-# **My PowerBI reports**
-
-# 📊 Power BI Portfolio
 <table>
   <tr>
     <td colspan="3" align="center">
@@ -45,6 +44,13 @@ My portfolio is still growing, but take a look and say something — every kind 
       End-to-end football analytics project involving REST API data extraction, ETL processes, dimensional modelling (star schema) in MySQL, and Power BI dashboard development covering three Liga Portugal seasons.
     </td>
   </tr>
+  <tr>
+  <td colspan="3" align="center">
+    <a href="https://github.com/bmrribeiro/Football---Portuguese-League">
+      🔗 View Full Project Repository
+    </a>
+  </td>
+</tr>
 </table>
 <table>
   <tr>
