@@ -5,7 +5,7 @@ Before pursuing this field, I worked in several different places. I spent severa
 
 The decision to move into data analysis comes from a long and never ceased interest in technology — and philosophy isn't as far from data as it seems — both require careful, critical, and analytical thinking to reach premeditated conclusions.
 
-I recently completed a Data Analysis course (300h) from IEFP (Institute for Employment and Vocational Training). The programme covered the full data workflow: from information and data management, to Python programming, command line and scripting, all the way through to data cleaning, transformation, and building analytical models. On the side, I've been teaching myself Power BI.
+I recently completed a Data Analysis course (300h) from IEFP (Institute for Employment and Vocational Training). The programme covered the full data workflow: from information and data management, to Python programming, command line and scripting, all the way through to data cleaning, transformation, and building analytical models. On the side, I've been teaching myself Power BI and Excel.
 
 My portfolio is still growing, but take a look and say something — every kind word will be welcome and reciprocated 😉
 📩 [brunomiguelrosasribeiro@gmail.com] | 💼 [https://www.linkedin.com/in/bruno-ribeiro-3612ba367/]
