@@ -1,7 +1,7 @@
 ## Hi there, I'm Bruno Ribeiro 👋
 I have a Master's in Teaching Philosophy, which is an unusual starting point for a data analyst — but here I am.
 
-Before pursuing this field, I worked in several different places. I spent several years counting and supervising inventories, had a stint as an electrician's assistant, and taught psichology and sociology at secondary school. After that I joined Scale AI as a freelancer, where I started as a tasker on Portuguese-language AI training projects, occasionally moved into a team leader role — onboarding new taskers, reviewing their work, managing deadlines, running meetings — and later became an auditor, responsible for quality control before delivery to the client.
+Before pursuing this field, I worked in several different places. I spent several years counting and supervising inventories, had a stint as an electrician's assistant, and taught psychology and sociology at secondary school. After that I joined Scale AI as a freelancer, where I started as a tasker on Portuguese-language AI training projects, occasionally moved into a team leader role — onboarding new taskers, reviewing their work, managing deadlines, running meetings — and later became an auditor, responsible for quality control before delivery to the client.
 
 The decision to move into data analysis comes from a long and never ceased interest in technology — and philosophy isn't as far from data as it seems — both require careful, critical, and analytical thinking to reach premeditated conclusions.
 
